@@ -4,7 +4,7 @@ This project explores sales performance across product sub-categories and region
 
 ## Tools Used
 - Tableau Public – for data visualization and dashboard building
-- Microsoft Excel ([`Sample - Superstore`](https://github.com/pooja-9nov/superstore_sales_dashboard/blob/main/sample_-_superstore.xls) – as the primary data source
+- Microsoft Excel ([`Sample - Superstore`](https://github.com/pooja-9nov/superstore_sales_dashboard/blob/main/sample_-_superstore.xls)) – as the primary data source
 - GitHub – for portfolio hosting and version control
 
 ## Key Insights
