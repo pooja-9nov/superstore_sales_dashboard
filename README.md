@@ -1,6 +1,6 @@
 # Superstore_Sales_Dashboard (Tableau)
 ## Superstore sales performance dashboard (2014-2017)
-This project explores sales performance across product sub-categories and regions using Tableau. The dashboard provides insights into revenue distribution, regional trends, and profitability, helping stakeholders identify growth opportunities and areas of concern.
+An interactive Tableau dashboard exploring sales performance across product sub-categories and regions for Superstore sales dataset. Provides insights into revenue distribution, regional trends, and profitability.
 
 ## Tools Used
 - Tableau Public – for data visualization and dashboard building
@@ -23,5 +23,5 @@ Stacked bar chart of sub-category-wise sales segmented by region
 Filled map displaying sales and profit distribution across U.S. states
 
 # Live Tableau Dashboard
-[`Click here to view dashboard on my Tableau Public profile`](https://public.tableau.com/views/SuperstoreSalesDashboard_17527413903410/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[`Click here to view Tableau dashboard`](https://public.tableau.com/views/SuperstoreSalesDashboard_17527413903410/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
